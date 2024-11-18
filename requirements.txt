@@ -1,2 +1,2 @@
-ghapi==0.1.17
+ghapi==1.0.6
 pytest==8.3.3
